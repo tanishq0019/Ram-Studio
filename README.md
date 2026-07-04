@@ -3,7 +3,7 @@
 A high-performance, visually striking portfolio landing page tailored for a premium photography, videography, and creative media production studio. Designed with an emphasis on rich media layouts, fluid motion aesthetics, and complete cross-device viewport optimization.
 
 ## 🚀 Live Demo
-👉 **[View the Live Site](https://YOUR_GITHUB_USERNAME.github.io/ram-studio/)** *(Replace with your live link)*
+👉 **[View the Live Site]( https://tanishq0019.github.io/Ram-Studio/)** *(Replace with your live link)*
 
 ## 🛠️ Tech Stack & Architecture
 - **Markup & Layout:** Semantic HTML5, CSS3, Asymmetrical Flexbox/Grid configurations
